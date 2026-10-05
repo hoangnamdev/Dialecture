@@ -1,18 +1,32 @@
-# Dialecture: Languages (Website)
+# Dialecture 🌐
 
-A mock website made for showcasing a (non-existent) language learning app named "Dialecture" with full-featured and mobile-responsive pages!
+> **Status:** Archived UI Prototype  
+> *A legacy front-end layout concept exploring responsive Bootstrap grids, scroll-driven entrance animations, and CSS styling patterns. Preserved as an early client-side design exercise.*
 
-![dialecture](https://github.com/hoangnamdev/Dialecture/assets/125788036/787de499-a268-463f-852e-d88851c17265)
+---
 
-## Live Demo 🌐
+### 🚀 Live Build
+Inspect the static layout on GitHub Pages:  
+👉 **[hoangnamdev.github.io/Dialecture](https://hoangnamdev.github.io/Dialecture/)**
 
-https://hoangnamdev.github.io/Dialecture/
+---
 
-## Technologies 🛠️ (Front-end only)
+### Design & Scope Notes
 
-**Languages:** HTML5, CSS3, JavaScript.  
-**Frameworks/Libraries:** Bootstrap, AOS.  
-**Tools:** Visual Studio Code, Git bash, UNIX.
+- **Layout First, Mock Copy Second:** This project was built strictly as a visual and mechanical layout exercise. The on-page content, headlines, and feature descriptions are informal placeholder copy used to test typography scales, text blocks, and button placements across screen sizes.
+- **Scroll & Breakpoint Mechanics:** Built to practice fluid grid behavior, media query transitions, and timed DOM entry effects via AOS (Animate on Scroll).
+- **Zero-Dependency Static Asset:** Operates as a purely static asset with zero build requirements, databases, or runtime dependencies.
 
-## Time to make: 3 days. ⌛
--- Check out my repository for more projects like this! ✅ --
+---
+
+### Stack & Tools
+
+- **Core:** Semantic HTML5, CSS3, Vanilla JavaScript
+- **Framework & Libraries:** Bootstrap, AOS (Animate on Scroll)
+- **Deployment:** GitHub Pages
+
+---
+
+### Archival
+
+This repository is permanently archived and retained for historical reference as an early front-end styling and layout milestone.
